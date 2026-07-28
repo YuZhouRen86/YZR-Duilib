@@ -1,0 +1,6 @@
+#ifndef UI_RENDER_RENDER_CONFIG_H_
+#define UI_RENDER_RENDER_CONFIG_H_
+
+#pragma once
+
+#endif // UI_RENDER_RENDER_CONFIG_H_
